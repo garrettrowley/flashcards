@@ -2,10 +2,12 @@ body{
   text-align: center;
 }
 
-.hidden{
+p{
   display:none;
+  margin-top: 50%
 }
 
 .card{
   height:500px;
+  margin-top: 20px;
 }
